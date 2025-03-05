@@ -79,11 +79,7 @@ Here are some of my QA & UI/UX projects:
 
 ### 🔗 **Connect with Me**
 <p>
-    <a href="https://www.behance.net/justinmorato1"><img src="https://img.shields.io/badge/Behance-%231776FF.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
-</p>
-
-### 🔗 **Connect with Me**
-<p>
     <a href="mailto:justinmorato18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/JustinMorato"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.behance.net/justinmorato1"><img src="https://img.shields.io/badge/Behance-%231776FF.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p>
