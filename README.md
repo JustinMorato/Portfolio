@@ -68,7 +68,7 @@
 
 ---
 
-### 📂 **QA & UI/UX Projects**
+### 📂 **QA Projects**
 💡 **Want to see my work?**  
 Here are some of my QA & UI/UX projects:  
 - ✅ **[Project 1: Manual Test Cases for Web App](https://docs.google.com/spreadsheets/d/1gZojzTy0r_RVBDUmQTrzJ5EVH5nNKWixzwEZbF_8fb4/edit?usp=sharing)** - Functional & UI test cases  
