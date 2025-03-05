@@ -73,13 +73,10 @@
 Here are some of my QA & UI/UX projects:  
 - ✅ **[Project 1: Manual Test Cases for Web App](https://docs.google.com/spreadsheets/d/1gZojzTy0r_RVBDUmQTrzJ5EVH5nNKWixzwEZbF_8fb4/edit?usp=sharing)** - Functional & UI test cases  
 - 🔍 **[Project 2: Regression Testing Report](https://docs.google.com/spreadsheets/d/1VeWBi7IjX97E32M_8iRZNQWG7BjgW8En4zwK3PxrgQo/edit?usp=sharing)** - Jira bug reports & analysis  
-- 🎨 **[Project 3: UI/UX Design Mockups](#)** - Figma wireframes & prototypes  
-
 ---
 
 ### 🔗 **Connect with Me**
 <p>
     <a href="mailto:justinmorato18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/JustinMorato"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.behance.net/justinmorato1"><img src="https://img.shields.io/badge/Behance-%231776FF.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
 </p>
