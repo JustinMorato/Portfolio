@@ -24,7 +24,7 @@
 ✅ **Manual Testing** (Regression, Functional, Exploratory, UI/UX)  
 ✅ **Bug Tracking & Reporting** (Jira, Zoho Projects, GitHub Issues)  
 ✅ **Test Case Design & Execution** (TestRail, Zephyr)  
-✅ **Front-End Development** (HTML, CSS, JavaScript, React, Next.js)  
+✅ **Front-En d Development** (HTML, CSS, JavaScript, React, Next.js)  
 ✅ **UI/UX Design** (Wireframing, Prototyping, User Research)  
 
 ---
@@ -71,8 +71,8 @@
 ### 📂 **QA & UI/UX Projects**
 💡 **Want to see my work?**  
 Here are some of my QA & UI/UX projects:  
-- ✅ **[Project 1: Manual Test Cases for Web App](#)** - Functional & UI test cases  
-- 🔍 **[Project 2: Regression Testing Report](#)** - Jira bug reports & analysis  
+- ✅ **[Project 1: Manual Test Cases for Web App](https://docs.google.com/spreadsheets/d/1gZojzTy0r_RVBDUmQTrzJ5EVH5nNKWixzwEZbF_8fb4/edit?usp=sharing)** - Functional & UI test cases  
+- 🔍 **[Project 2: Regression Testing Report](https://docs.google.com/spreadsheets/d/1VeWBi7IjX97E32M_8iRZNQWG7BjgW8En4zwK3PxrgQo/edit?usp=sharing)** - Jira bug reports & analysis  
 - 🎨 **[Project 3: UI/UX Design Mockups](#)** - Figma wireframes & prototypes  
 
 ---
